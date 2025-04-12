@@ -54,6 +54,7 @@ CHECKPOINT_MODELS=(
 
 UNET_MODELS=(
 	#"https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/flux1-dev.sft"
+ 	"https://huggingface.co/shuttleai/shuttle-jaguar/resolve/main/gguf/shuttle-jaguar-Q8_0.gguf"
 )
 
 CLIP_MODELS=(
