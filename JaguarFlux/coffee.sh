@@ -107,6 +107,7 @@ LORA_MODELS=(
 	"https://huggingface.co/mushroomfleet/Flux-Lora-Collection/resolve/main/womanv1-fast.safetensors"
 	"https://huggingface.co/mushroomfleet/Flux-Lora-Collection/resolve/main/womanv2-fast.safetensors"
 	"https://huggingface.co/mushroomfleet/Flux-Lora-Collection/resolve/main/womanv22-000019.safetensors"
+	"https://huggingface.co/coregitedge/model1lora/resolve/main/model1lora-000009.safetensors"
 )
 
 VAE_MODELS=(
