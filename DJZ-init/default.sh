@@ -27,6 +27,7 @@ NODES=(
 	"https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
 	"https://github.com/rgthree/rgthree-comfy"
 	"https://github.com/crystian/ComfyUI-Crystools"
+ 	"https://github.com/city96/ComfyUI-GGUF"
 	"https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
 	"https://github.com/giriss/comfy-image-saver"
 	"https://github.com/Fannovel16/comfyui_controlnet_aux"
