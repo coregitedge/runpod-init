@@ -81,6 +81,8 @@ LORA_MODELS=(
 VAE_MODELS=(
     #"https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/ae.sft"
     #"https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
+	"https://huggingface.co/black-forest-labs/FLUX.1-schnell/resolve/main/ae.safetensors"
+
 )
 
 ESRGAN_MODELS=(
